@@ -1,0 +1,28 @@
+name: "Ville Karhunen"
+navbar:
+  title: "Home"
+  left:
+#    - text: "Home"
+#      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Links"
+      href: links.html
+  right: 
+    #- icon: fa-orcid fa-lg
+    - icon: fa-github fa-lg
+      href: http://github.com/vkarhune/
+    - icon: ai ai-orcid ai-lg
+      href: https://orcid.org/0000-0001-6064-1588
+    - icon: fa-twitter-square fa-lg
+      href: https://twitter.com/karhunen_v
+    - icon: fa-envelope fa-lg
+      href: mailto:[firstname].[lastname]@oulu.fi
+output:
+  html_document:
+    theme: darkly
+    css: 'css/academicons.min.css'

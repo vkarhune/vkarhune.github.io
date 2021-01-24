@@ -1,0 +1,29 @@
+---
+title: " "
+pagetitle: "About"
+---
+
+\
+
+## Biography
+
+I have a PhD in statistical and molecular epidemiology, received in 2020 at Imperial College London.
+My background is in statistics, and I have experience in epidemiological research, especially on (but not limited to) neuropsychiatric disorders and cardiometabolic traits.
+My main research interests are causal inference and high-dimensional data analysis, and their applications in molecular epidemiology.
+
+
+## Positions
+
+* 2021-- Postdoctoral researcher, University of Oulu, Oulu, Finland
+* 2020 Postdoctoral researcher, Imperial College London, London, UK
+* 2017--2020 Marie Sklodowska-Curie Early Stage Researcher (PhD Student), Imperial College London, London, UK
+* 2012--2017 IT Designer / Biostatistician, University of Oulu, Oulu, Finland
+
+## Education
+
+* PhD in Statistical and Molecular Epidemiology, 2020
+  + Imperial College London, London, UK
+
+* MSc in Statistics, 2013
+  + University of Oulu, Oulu, Finland
+

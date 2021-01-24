@@ -1,0 +1,106 @@
+---
+title: " "
+pagetitle: "Publications"
+---
+
+\
+
+[Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
+
+
+## First-author publications
+
+* Gill D\*, **Karhunen V**\*, Malik R, Dichgans M, Sofat N (2021). Cardiometabolic traits mediating the effect of education on osteoarthritis risk: a Mendelian randomization study. *Osteoarthritis Cartilage*. [doi:10.1016/j.joca.2020.12.015](https://doi.org/10.1016/j.joca.2020.12.015). \*Joint-first authorship.
+
+* **Karhunen V**\*, Gill D\*, Malik R, ..., Tsilidis KK, Järvelin MR, Dehghan A (2020). Genetic study of circulating cytokines offers insight into the determinants, cascades and effects of systemic inflammation. *medRxiv* (pre-print). [doi:10.1101/2020.10.26.20219477](https://doi.org/10.1101/2020.10.26.20219477). \*Joint-first authorship.
+
+* Wiklund P\*, **Karhunen V**\*, Richmond RC, ..., Järvelin MR (2019). DNA methylation links prenatal smoking exposure to later life health outcomes in offspring. *Clin Epigenetics*. [doi:10.1186/s13148-019-0683-4](https://doi.org/10.1186/s13148-019-0683-4). \*Joint-first authorship.
+
+
+## Other publications
+
+### 2021
+
+* Rajula HSR, Manchia M, Agarwal K, ..., **Karhunen V**, ..., Middeldorp CM (2021). Overview of CAPICE-Childhood and Adolescence Psychopathology: unravelling the complex etiology by a large Interdisciplinary Collaboration in Europe-an EU Marie Skłodowska-Curie International Training Network. *Eur Child Adolesc Psychiatry*. [doi:10.1007/s00787-020-01713-2](https://doi.org/10.1007/s00787-020-01713-2).
+
+* Crawford AA, Bankier S, Altmaier E, ..., **Karhunen V**, ..., Walker BR (2021). Variation in the SERPINA6/SERPINA1 locus alters morning plasma cortisol, hepatic corticosteroid binding globulin expression, gene expression in peripheral tissues, and risk of cardiovascular disease. *J Hum Genet*. [doi:10.1038/s10038-020-00895-6](https://doi.org/10.1038/s10038-020-00895-6).
+
+* Gomez-Alonso MDC, Kretschmer A, Wilson R, ..., **Karhunen V**, ..., Waldenberger M (2021). DNA methylation and lipid metabolism: an EWAS of 226 metabolic measures. *Clin Epigenetics*. [doi:10.1186/s13148-020-00957-8](https://doi.org/10.1186/s13148-020-00957-8).
+
+* Ryan DK, **Karhunen V**, Walker DJ, Gill D. (2021) Inhibition of interleukin 6 signalling and renal function: a Mendelian randomization study. *Br J Clin Pharmacol*. [doi:10.1111/bcp.14725](https://doi.org/10.1111/bcp.14725).
+
+* Gill D, Cameron AC, Burgess S, ..., **Karhunen V**, ..., Tzoulaki I (2021). Urate, Blood Pressure, and Cardiovascular Disease: Evidence From Mendelian Randomization and Meta-Analysis of Clinical Trials. *Hypertension*. [doi:10.1161/HYPERTENSIONAHA.120.16547](https://doi.org/10.1161/HYPERTENSIONAHA.120.16547).
+
+
+### 2020
+
+* Gill D, Arvanitis M, Carter P, ..., **Karhunen V**, ...,  Burgess S (2020). ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma ACE2 levels: a Mendelian randomization study. *R Soc Open Sci*. [doi:10.1098/rsos.200958](https://doi.org/10.1098/rsos.200958).
+
+* Nuotio ML, Pervjakova N, Joensuu A, **Karhunen V**, ..., Perola M (2020). An epigenome-wide association study of metabolic syndrome and its components. *Sci Rep*. [doi:10.1038/s41598-020-77506-z](https://doi.org/10.1038/s41598-020-77506-z).
+
+* Robinson O, Carter AR, Ala-Korpela M, ..., **Karhunen V**, ..., Vineis P (2020). Metabolic profiles of socio-economic position: a multi-cohort analysis. *Int J Epidemiol*. [doi:10.1093/ije/dyaa188](https://doi.org/10.1093/ije/dyaa188).
+
+* Allegrini AG, **Karhunen V**, Coleman JRI, ..., Pingault JB, Plomin R (2020). Multivariable G-E interplay in the prediction of educational achievement. *PLoS Genet*. [doi:10.1371/journal.pgen.1009153](https://doi.org/10.1371/journal.pgen.1009153).
+
+* Vogelezang S, Bradfield JP, Ahluwalia TS, ..., **Karhunen V**, ..., Felix JF (2020). Novel loci for childhood body mass index and shared heritability with adult cardiometabolic traits. *PLoS Genet*. [doi:10.1371/journal.pgen.1008718](https://doi.org/10.1371/journal.pgen.1008718).
+
+* Rauschert S, Melton PE, Heiskala A, **Karhunen V**, ..., Huang RC (2020). Machine Learning-Based DNA Methylation Score for Fetal Exposure to Maternal Smoking: Development and Validation in Samples Collected from Adolescents and Adults. *Environ Health Perspect*. [doi:10.1289/EHP6076](https://doi.org/10.1289/ehp6076).
+
+* Loftfield E, Herzig KH, Caporaso JG, ..., **Karhunen V**, ..., Sinha R (2020). Association of Body Mass Index with Fecal Microbial Diversity and Metabolites in the Northern Finland Birth Cohort. *Cancer Epidemiol Biomarkers Prev*. [doi:10.1158/1055-9965.EPI-20-0824](https://doi.org/10.1158/1055-9965.EPI-20-0824).
+
+* Gill D, Georgakis MK, Zuber V, **Karhunen V**, ..., Dichgans M (2020). Genetically Predicted Midlife Blood Pressure and Coronary Artery Disease Risk: Mendelian Randomization Analysis. *J Am Heart Assoc* [doi:10.1161/JAHA.120.016773](https://doi.org/10.1161/JAHA.120.016773).
+
+* Akingbuwa WA, Hammerschlag AR, Jami ES, ..., **Karhunen V**, ..., Middeldorp CM (2020). Genetic Associations Between Childhood Psychopathology and Adult Depression and Associated Traits in 42 998 Individuals: A Meta-Analysis. *JAMA Psychiatry*. [doi:10.1001/jamapsychiatry.2020.0527](https://doi.org/10.1001/jamapsychiatry.2020.0527).
+
+*  Lee MA, McMahon G, **Karhunen V**, ..., Timpson NJ (2020). Common Variation at 16p11.2 Is Associated With Glycosuria in Pregnancy: Findings From a Genome-Wide Association Study in European Women. *Hum Mol Genet*. [doi:10.1093/hmg/ddaa054](https://doi.org/10.1093/hmg/ddaa054).
+
+### 2019
+
+*  Couto Alves A, De Silva NMG, **Karhunen V**, ..., Grant SFA, Sebert S, McCarthy MI, Järvelin MR (2019). GWAS on longitudinal growth traits reveals different genetic factors influencing infant, child, and adult BMI. *Science Advances*. [doi:10.1126/sciadv.aaw3095](https://doi.org/10.1126/sciadv.aaw3095).
+
+*  Gallagher CS, Mäkinen N, Harris HR, ..., **Karhunen V**, ..., Morton CC (2019). Genome-wide association and epidemiological analyses reveal common genetic origins between uterine leiomyomata and endometriosis. *Nat Commun*. [doi:10.1038/s41467-019-12536-4](https://doi.org/10.1038/s41467-019-12536-4).
+
+*  Bradfield JP, Vogelezang S, Felix JF, ..., **Karhunen V**, ..., Grant SFA (2019). A Trans-ancestral Meta-Analysis of Genome-Wide Association Studies Reveals Loci Associated with Childhood Obesity. *Hum Mol Genet*. [doi:10.1093/hmg/ddz161](https://doi.org/10.1093/hmg/ddz161).
+
+*  Bond TA, **Karhunen V**, Wielscher M, ...,  Järvelin MR (2019). Exploring the role of genetic confounding in the association between maternal and offspring body mass index: evidence from three birth cohorts. *Int J Epidemiol*. [doi:10.1093/ije/dyz095](https://doi.org/10.1093/ije/dyz095).
+
+* Leal LG, David A, Järvelin MR, ..., **Karhunen V**, ..., Sternberg MJE (2019). Identification of disease-associated loci using machine learning for genotype and network data integration. *Bioinformatics*. [doi:10.1093/bioinformatics/btz310](https://doi.org/10.1093/bioinformatics/btz310).
+
+*  Middeldorp CM, Felix JF, Mahajan A, ..., **Karhunen V**, ..., McCarthy MI (2019). The Early Growth Genetics (EGG) and EArly Genetics and Lifecourse Epidemiology (EAGLE) consortia: design, results and future prospects. *Eur J Epidemiol*. [doi:10.1007/s10654-019-00502-9](https://doi.org/10.1007/s10654-019-00502-9).
+
+*  Perkiömäki N, Auvinen J, Tulppo MP, ..., **Karhunen V**, ..., Kiviniemi AM (2019). Childhood growth patterns and cardiovascular autonomic modulation in midlife: Northern Finland 1966 Birth Cohort Study. *Int J Obes (London)*. [doi:10.1038/s41366-019-0333-0](https://doi.org/10.1038/s41366-019-0333-0).
+
+*  Karlsson Linner R, Biroli P, Kong E, ..., **Karhunen V**, ..., Beauchamp JP (2019). Genome-wide association analyses of risk tolerance and risky behaviors in over 1 million individuals identify hundreds of loci and shared genetic influences. *Nat Genet*. [doi:10.1038/s41588-018-0309-3](http://doi.org/10.1038/s41588-018-0309-3).
+
+*  Lowry E, Rautio N, **Karhunen V**, ..., Järvelin MR (2018). Understanding the complexity of glycaemic health: systematic bio-psychosocial modelling of fasting glucose in middle-age adults; a DynaHEALTH study. *Int J Obes (Lond)*. [doi:10.1038/s41366-018-0175-1](http://doi.org/10.1038/s41366-018-0175-1).
+
+### 2018
+
+*  Parmar P, Lowry E, Cugliari G, ..., **Karhunen V**, ..., Järvelin MR, Sebert S (2018). Association of maternal prenatal smoking GFI1-locus and cardio-metabolic phenotypes in 18,212 adults. *EBioMedicine*. [doi:10.1016/j.ebiom.2018.10.066](http://doi.org/10.1016/j.ebiom.2018.10.066).
+
+*  Ligthart S, Vaez A, Vosa U, ..., **Karhunen V**, ..., Dehghan A, Alizadeh BZ (2018). Genome Analyses of >200,000 Individuals Identify 58 Loci for Chronic Inflammation and Highlight Pathways that Link Inflammation and Complex Disorders. *Am J Hum Genet*. [doi:10.1016/j.ajhg.2018.09.009](http://doi.org/10.1016/j.ajhg.2018.09.009).
+
+*  Beckmeyer-Borowko A, Imboden M, Rezwan FI, ... **Karhunen V**, ..., Probst-Hensch NM (2018). SERPINA1 methylation and lung function in tobacco-smoke exposed European children and adults: a meta-analysis of ALEC population-based cohorts. *Respir Res*. [doi:10.1186/s12931-018-0850-8](http://doi.org/10.1186/s12931-018-0850-8).
+
+*  Zhou A, Taylor AE, **Karhunen V**, ..., Hyppönen E (2018). Habitual coffee consumption and cognitive function: a Mendelian randomization meta-analysis in up to 415,530 participants. *Sci Rep*. [doi:10.1038/s41598-018-25919-2](http://doi.org/10.1038/s41598-018-25919-2).
+
+*  Bonfiglio F, Henstrom M, Nag A, ... **Karhunen V**, ..., D'Amato M (2018). A GWAS meta‐analysis from 5 population‐based cohorts implicates ion channel genes in the pathogenesis of irritable bowel syndrome. *Neurogastroenterol Motil*, [doi:10.1111/nmo.13358](http://doi.org/10.1111/nmo.13358).
+
+*  Metrustry SJ, **Karhunen V**, Edwards MH, ..., Valdes AM (2018). Metabolomic signatures of low birthweight: Pathways to insulin resistance and oxidative stress. *PLoS One*. [doi:10.1371/journal.pone.0194316](http://doi.org/10.1371/journal.pone.0194316).
+
+### 2017
+
+*  Maddock J, Zhou A, Cavadino A, ... **Karhunen V**, ..., Hyppönen E (2017). Vitamin D and cognitive function: A Mendelian randomisation study. *Sci Rep*. [doi:10.1038/s41598-017-13189-3](http://doi.org/10.1038/s41598-017-13189-3).
+
+*  Schierding W, Antony J, **Karhunen V**, ..., Cutfield WS (2017). GWAS on prolonged gestation (post-term birth): analysis of successive Finnish birth cohorts. *J Med Genet*. [doi:10.1136/jmedgenet-2017-104880](http://doi.org/10.1136/jmedgenet-2017-104880).
+
+*  Warrington NM, Richmond R, Fenstra B, ... **Karhunen V**, ..., Evans DM, Lawlor DA (2017). Maternal and fetal genetic contribution to gestational weight gain. *Int J Obes*. [doi:10.1038/ijo.2017.248](http://doi.org/10.1038/ijo.2017.248).
+
+*  Bonfiglio F, Hysi PG, Ek W, ... **Karhunen V**, ..., D'Amato M (2017). A meta-analysis of reflux genome-wide association studies in 6750 Northern Europeans from the general population. *Neurogastroenterol Motil*. [doi:10.1111/nmo.12923](http://doi.org/10.1111/nmo.12923).
+
+### 2016
+
+*  Perkiömäki N, Auvinen J, Tulppo MP, ... **Karhunen V**, ..., Kiviniemi AM (2016). Association between Birth Characteristics and Cardiovascular Autonomic Function at Mid-Life. *PLoS One*. [doi:10.1371/journal.pone.0161604](http://doi.org/10.1371/journal.pone.0161604).
+
+*  Okbay A, Baselmans BM, De Neve JE, ... **Karhunen V**, ..., Cesarini D (2016). Genetic variants associated with subjective well-being, depressive symptoms, and neuroticism identified through genome-wide analyses. *Nat Genet*. [doi:10.1038/ng.3552](http://doi.org/10.1038/ng.3552).
+

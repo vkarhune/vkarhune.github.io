@@ -1,0 +1,15 @@
+---
+title: " "
+pagetitle: "Links"
+---
+
+\
+
+Some useful or interesting links.
+
+
+## Free statistics books
+
+[Hastie and Tibshirani: Elements of Statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+[James, Witten, Hastie and Tibshirani: An Introduction to Statistical Learning](https://statlearning.com/)

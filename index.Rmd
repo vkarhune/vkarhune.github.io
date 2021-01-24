@@ -1,0 +1,14 @@
+---
+title: "Ville Karhunen"
+pagetitle: "Welcome"
+---
+
+<!--
+rmarkdown::render_site()
+-->
+
+<img src="figures/img1.jpg" style="width:25%; margin-right: 20px" align="left">
+
+Welcome to my home page.
+I am a statistician, currently working as a postdoctoral researcher at University of Oulu, jointly in [Research Unit of Mathematical Sciences](https://www.oulu.fi/mathematics/) and [Center for Life Course Health Research](https://www.oulu.fi/medicine/elite).
+
