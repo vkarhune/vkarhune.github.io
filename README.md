@@ -1,2 +1,0 @@
-# vkarhune.github.io
-Home
