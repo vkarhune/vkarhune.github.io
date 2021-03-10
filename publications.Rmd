@@ -10,7 +10,9 @@ pagetitle: "Publications"
 
 ## First-author publications
 
-* Gill D\*, **Karhunen V**\*, Malik R, Dichgans M, Sofat N (2021). Cardiometabolic traits mediating the effect of education on osteoarthritis risk: a Mendelian randomization study. *Osteoarthritis Cartilage*. [doi:10.1016/j.joca.2020.12.015](https://doi.org/10.1016/j.joca.2020.12.015). \*Joint-first authorship.
+* **Karhunen V**, Larsson SC, Gill D (2021). Genetically proxied growth differentiation factor 15 levels and body mass index. *Br J Clin Pharmacol*. [doi:10.1111/bcp.14808](https://doi.org/10.1111/bcp.14808).
+
+* Gill D\*, **Karhunen V**\*, Malik R\*, Dichgans M, Sofat N (2021). Cardiometabolic traits mediating the effect of education on osteoarthritis risk: a Mendelian randomization study. *Osteoarthritis Cartilage*. [doi:10.1016/j.joca.2020.12.015](https://doi.org/10.1016/j.joca.2020.12.015). \*Joint-first authorship.
 
 * **Karhunen V**\*, Gill D\*, Malik R, ..., Tsilidis KK, Järvelin MR, Dehghan A (2020). Genetic study of circulating cytokines offers insight into the determinants, cascades and effects of systemic inflammation. *medRxiv* (pre-print). [doi:10.1101/2020.10.26.20219477](https://doi.org/10.1101/2020.10.26.20219477). \*Joint-first authorship.
 
