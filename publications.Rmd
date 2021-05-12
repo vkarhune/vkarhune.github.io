@@ -23,6 +23,10 @@ pagetitle: "Publications"
 
 ### 2021
 
+* Cartwright R, Franklin L, Tikkinen KAO, ..., **Karhunen V **, ..., Walley A (2021). Genome Wide Association Study Identifies Two Novel Loci Associated with Female Stress and Urgency Urinary Incontinence. *J Urol*. [doi:10.1097/JU.0000000000001822](https://doi.org/10.1097/JU.0000000000001822).
+
+* Malik R, Georgakis MK, Vujkovic M, ..., **Karhunen V**, ..., Gill D (2021). Relationship Between Blood Pressure and Incident Cardiovascular Disease: Linear and Nonlinear Mendelian Randomization Analyses. *Hypertension*. [doi:10.1161/HYPERTENSIONAHA.120.16534](https://doi.org/10.1161/HYPERTENSIONAHA.120.16534).
+
 * Rajula HSR, Manchia M, Agarwal K, ..., **Karhunen V**, ..., Middeldorp CM (2021). Overview of CAPICE-Childhood and Adolescence Psychopathology: unravelling the complex etiology by a large Interdisciplinary Collaboration in Europe-an EU Marie Skłodowska-Curie International Training Network. *Eur Child Adolesc Psychiatry*. [doi:10.1007/s00787-020-01713-2](https://doi.org/10.1007/s00787-020-01713-2).
 
 * Crawford AA, Bankier S, Altmaier E, ..., **Karhunen V**, ..., Walker BR (2021). Variation in the SERPINA6/SERPINA1 locus alters morning plasma cortisol, hepatic corticosteroid binding globulin expression, gene expression in peripheral tissues, and risk of cardiovascular disease. *J Hum Genet*. [doi:10.1038/s10038-020-00895-6](https://doi.org/10.1038/s10038-020-00895-6).
