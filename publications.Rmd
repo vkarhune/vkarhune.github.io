@@ -23,6 +23,10 @@ pagetitle: "Publications"
 
 ### 2021
 
+* Fatumo S, **Karhunen V**&dagger;, Chikowore T, ..., Gill D&dagger; (2021). Metabolic Traits and Stroke Risk in Individuals of African Ancestry: Mendelian Randomization Analysis. *Stroke*. [doi:10.1161/STROKEAHA.121.034747](https://doi.org/10.1161/STROKEAHA.121.034747). &dagger;Corresponding authors.
+
+* Gill D, Zuber V, Dawson J, ..., **Karhunen V**, ..., Elliott P (2021). Risk factors mediating the effect of body mass index and waist-to-hip ratio on cardiovascular outcomes: Mendelian randomization analysis. *Int J Obes (Lond)*. [doi:10.1038/s41366-021-00807-4](https://doi.org/10.1038/s41366-021-00807-4).
+
 * Cartwright R, Franklin L, Tikkinen KAO, ..., **Karhunen V **, ..., Walley A (2021). Genome Wide Association Study Identifies Two Novel Loci Associated with Female Stress and Urgency Urinary Incontinence. *J Urol*. [doi:10.1097/JU.0000000000001822](https://doi.org/10.1097/JU.0000000000001822).
 
 * Malik R, Georgakis MK, Vujkovic M, ..., **Karhunen V**, ..., Gill D (2021). Relationship Between Blood Pressure and Incident Cardiovascular Disease: Linear and Nonlinear Mendelian Randomization Analyses. *Hypertension*. [doi:10.1161/HYPERTENSIONAHA.120.16534](https://doi.org/10.1161/HYPERTENSIONAHA.120.16534).
