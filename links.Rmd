@@ -13,3 +13,7 @@ Some useful or interesting links.
 [Hastie and Tibshirani: Elements of Statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 [James, Witten, Hastie and Tibshirani: An Introduction to Statistical Learning](https://statlearning.com/)
+
+## Common statistical myths
+
+[Reference collection to push back against common statistical myths](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)

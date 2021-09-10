@@ -4,6 +4,14 @@ pagetitle: "Welcome"
 ---
 
 <!--
+
+https://rstudio.github.io/distill/publish_website.html
+
+setwd("my-website/")
+rmarkdown::render_site("about.Rmd")
+
+
+rm(list=ls())
 rmarkdown::render_site()
 -->
 

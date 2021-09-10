@@ -5,10 +5,18 @@ pagetitle: "Publications"
 
 \
 
+Last updated: 10th September 2021.
+
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
 
 ## First-author publications
+
+* **Karhunen V**, Daghlas I, Zuber V, ..., Gill D (2021). Leveraging human genetic data to investigate the cardiometabolic effects of glucose-dependent insulinotropic polypeptide signalling. *Diabetologia*. [doi:10.1007/s00125-021-05564-7](https://doi.org/10.1007/s00125-021-05564-7).
+
+* **Karhunen V**, Bond TA, Zuber V, ..., Järvelin MR, Evangelou M, Rodriguez A (2021). The link between attention deficit hyperactivity disorder (ADHD) symptoms and obesity-related traits: genetic and prenatal explanations. *Transl Psychiatry*. [doi:10.1038/s41398-021-01584-4](https://doi.org/10.1038/s41398-021-01584-4).
+
+* Auvinen J\*, Tapio J\*, **Karhunen V**\*, ..., Järvelin MR, Koivunen P (2021). Systematic evaluation of the association between hemoglobin levels and metabolic profile implicates beneficial effects of hypoxia. *Sci Adv*. [doi:10.1126/sciadv.abi4822](https://doi.org/10.1126/sciadv.abi4822). *Joint-first authorship.
 
 * **Karhunen V**, Larsson SC, Gill D (2021). Genetically proxied growth differentiation factor 15 levels and body mass index. *Br J Clin Pharmacol*. [doi:10.1111/bcp.14808](https://doi.org/10.1111/bcp.14808).
 
@@ -22,6 +30,10 @@ pagetitle: "Publications"
 ## Other publications
 
 ### 2021
+
+* Ip HF, van der Laan CM, Krapohl EML, ..., **Karhunen V**, ..., Bartels M, Nivard MG, Boomsma DI (2021). Genetic association study of childhood aggression across raters, instruments, and age. *Transl Psychiatry*. [doi:10.1038/s41398-021-01480-x](https://doi.org/10.1038/s41398-021-01480-x).
+
+* Daghlas I, **Karhunen V**, Ray D, ..., Gill D (2021). Genetic Evidence for Repurposing of GLP1R (Glucagon-Like Peptide-1 Receptor) Agonists to Prevent Heart Failure. *J Am Heart Assoc*. [doi:10.1161/JAHA.120.020331](https://doi.org/10.1161/JAHA.120.020331).
 
 * Fatumo S, **Karhunen V**&dagger;, Chikowore T, ..., Gill D&dagger; (2021). Metabolic Traits and Stroke Risk in Individuals of African Ancestry: Mendelian Randomization Analysis. *Stroke*. [doi:10.1161/STROKEAHA.121.034747](https://doi.org/10.1161/STROKEAHA.121.034747). &dagger;Corresponding authors.
 
