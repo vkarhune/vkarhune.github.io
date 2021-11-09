@@ -5,12 +5,14 @@ pagetitle: "Publications"
 
 \
 
-Last updated: 10th September 2021.
+Last updated: 9th November 2021.
 
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
 
 ## First-author publications
+
+* **Karhunen V**, Bakker MK, Ruigrok YM, Gill D, Larsson SC (2021). Modifiable Risk Factors for Intracranial Aneurysm and Aneurysmal Subarachnoid Hemorrhage: A Mendelian Randomization Study. *J Am Heart Assoc*. [doi:10.1161/JAHA.121.022277](https://doi.org/10.1161/JAHA.121.022277).
 
 * **Karhunen V**, Daghlas I, Zuber V, ..., Gill D (2021). Leveraging human genetic data to investigate the cardiometabolic effects of glucose-dependent insulinotropic polypeptide signalling. *Diabetologia*. [doi:10.1007/s00125-021-05564-7](https://doi.org/10.1007/s00125-021-05564-7).
 
