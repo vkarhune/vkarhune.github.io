@@ -5,7 +5,7 @@ pagetitle: "Publications"
 
 \
 
-Last updated: 9th November 2021.
+Last updated: 11th February 2022.
 
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
@@ -30,6 +30,16 @@ Last updated: 9th November 2021.
 
 
 ## Other publications
+
+### 2022
+
+* Zhao SS, **Karhunen V**, Morris AP, Gill D (2022). ADAMTS5 as a therapeutic target for osteoarthritis: Mendelian randomisation study. *Ann Rheum Dis*. [doi:10.1136/annrheumdis-2021-222007](https://doi.org/10.1136/annrheumdis-2021-222007).
+
+* Bond TA, Richmond RC, **Karhunen V**, ..., Lawlor DA, Järvelin MR (2022). Exploring the causal effect of maternal pregnancy adiposity on offspring adiposity: Mendelian randomisation using polygenic risk scores. *BMC Med*. [doi:10.1186/s12916-021-02216-w](https://doi.org/10.1186/s12916-021-02216-w).
+
+* Bouras E, **Karhunen V**, Gill D, ..., Tsilidis KK (2022). Circulating inflammatory cytokines and risk of five cancers: a Mendelian randomization analysis. *BMC Med*. [doi:10.1186/s12916-021-02193-0](https://doi.org/10.1186/s12916-021-02193-0).
+
+* Hawe JS, Wilson R, Schmid KT, ..., **Karhunen V**, ..., Chambers JC (2022). Genetic variation influencing DNA methylation provides insights into molecular mechanisms regulating genomic function. *Nat Genet*. [doi:10.1038/s41588-021-00969-x](https://doi.org/10.1038/s41588-021-00969-x).
 
 ### 2021
 

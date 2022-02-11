@@ -10,6 +10,10 @@ Some useful or interesting links.
 
 ## Free statistics books
 
+Please see the book webpages for the terms of use.
+
+[Gelman, Hill and Vehtari: Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)
+
 [Hastie and Tibshirani: Elements of Statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 [James, Witten, Hastie and Tibshirani: An Introduction to Statistical Learning](https://statlearning.com/)
