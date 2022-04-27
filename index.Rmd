@@ -13,6 +13,11 @@ rmarkdown::render_site("about.Rmd")
 
 rm(list=ls())
 rmarkdown::render_site()
+
+To commit:
+Terminal:
+git add -A
+https://community.rstudio.com/t/blogdown-unable-to-stage-and-commit/6621/4
 -->
 
 <img src="figures/img1.jpg" style="width:25%; margin-right: 20px" align="left">
