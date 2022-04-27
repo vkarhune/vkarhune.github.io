@@ -5,12 +5,14 @@ pagetitle: "Publications"
 
 \
 
-Last updated: 11th February 2022.
+Last updated: 27th April 2022.
 
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
 
 ## First-author publications
+
+* Soremekun O\*, **Karhunen V**\*, He Y, ..., Gill D, Fatumo S (2022). Lipid traits and type 2 diabetes risk in African ancestry individuals: A Mendelian Randomization study. *EBioMedicine*. [doi:10.1016/j.ebiom.2022.103953](https://doi.org/10.1016/j.ebiom.2022.103953). *Joint-first authorship.
 
 * **Karhunen V**, Bakker MK, Ruigrok YM, Gill D, Larsson SC (2021). Modifiable Risk Factors for Intracranial Aneurysm and Aneurysmal Subarachnoid Hemorrhage: A Mendelian Randomization Study. *J Am Heart Assoc*. [doi:10.1161/JAHA.121.022277](https://doi.org/10.1161/JAHA.121.022277).
 
@@ -32,6 +34,12 @@ Last updated: 11th February 2022.
 ## Other publications
 
 ### 2022
+
+* Said S, Pazoki R, **Karhunen V**, ..., Dehghan A (2022). Genetic analysis of over half a million people characterises C-reactive protein loci. *Nat Commun*. [doi:10.1038/s41467-022-29650-5](https://doi/org/10.1038/s41467-022-29650-5).
+
+* Jami ES, Hammerschlag AR, Ip HF, ..., **Karhunen V**, ..., Middeldorp CM. Genome-wide Association Meta-analysis of Childhood and Adolescent Internalizing Symptoms. *J Am Acad Child Adolesc Psychiatry*. [doi:10.1016/j.jaac.2021.11.035](https://doi.org/10.1016/j.jaac.2021.11.035).
+
+* Pervjakova N, Moen GH, Borges MC, ..., **Karhunen V**, ..., Mägi R (2022). Multi-ancestry genome-wide association study of gestational diabetes mellitus highlights genetic links with type 2 diabetes. *Hum Mol Genet*. [doi:10.1093/hmg/ddac050](https://doi.org/10.1093/hmg/ddac050).
 
 * Zhao SS, **Karhunen V**, Morris AP, Gill D (2022). ADAMTS5 as a therapeutic target for osteoarthritis: Mendelian randomisation study. *Ann Rheum Dis*. [doi:10.1136/annrheumdis-2021-222007](https://doi.org/10.1136/annrheumdis-2021-222007).
 
