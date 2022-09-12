@@ -35,9 +35,17 @@ Last updated: 27th April 2022.
 
 ### 2022
 
-* Said S, Pazoki R, **Karhunen V**, ..., Dehghan A (2022). Genetic analysis of over half a million people characterises C-reactive protein loci. *Nat Commun*. [doi:10.1038/s41467-022-29650-5](https://doi/org/10.1038/s41467-022-29650-5).
+* Ryan DK, **Karhunen V**, ..., Gill D (2022). Genetic evidence for protective effects of angiotensin-converting enzyme against Alzheimer disease but not other neurodegenerative diseases in European populations. *Neurol Genet*. [doi:10.1212/nxg.0000000000200014](https://doi.org/10.1212/nxg.0000000000200014).
 
-* Jami ES, Hammerschlag AR, Ip HF, ..., **Karhunen V**, ..., Middeldorp CM. Genome-wide Association Meta-analysis of Childhood and Adolescent Internalizing Symptoms. *J Am Acad Child Adolesc Psychiatry*. [doi:10.1016/j.jaac.2021.11.035](https://doi.org/10.1016/j.jaac.2021.11.035).
+* Neumann A, Nolte IM, Ahluwalia TS, ..., **Karhunen V**, ..., Tiemeier H (2022). A genome-wide association study of total child psychiatric problems scores. *PLoS One*. [doi:10.1371/journal.pone.0273116](https://doi.org/10.1371/journal.pone.0273116).
+
+* Zhao SS, Rajasundaram S, **Karhunen V**, Alam U, Gill D (2022). Sodium-glucose transporter 1 inhibition and gout: Mendelian randomisation study. *Semin Arthritis Rheum*. [doi:10.1016/j.semarthrit.2022.152058](https://doi.org/10.1016/j.semarthrit.2022.152058).
+
+* Wielscher M, Mandaviya PR, Kuehnel B, ..., **Karhunen V**, ..., Järvelin MR (2022). DNA methylation signature of chronic low-grade inflammation and its role in cardio-respiratory diseases. *Nat Commun*. [doi:10.1038/s41467-022-29792-6](https://doi.org/10.1038/s41467-022-29792-6).
+
+* Said S, Pazoki R, **Karhunen V**, ..., Dehghan A (2022). Genetic analysis of over half a million people characterises C-reactive protein loci. *Nat Commun*. [doi:10.1038/s41467-022-29650-5](https://doi.org/10.1038/s41467-022-29650-5).
+
+* Jami ES, Hammerschlag AR, Ip HF, ..., **Karhunen V**, ..., Middeldorp CM (2022). Genome-wide Association Meta-analysis of Childhood and Adolescent Internalizing Symptoms. *J Am Acad Child Adolesc Psychiatry*. [doi:10.1016/j.jaac.2021.11.035](https://doi.org/10.1016/j.jaac.2021.11.035).
 
 * Pervjakova N, Moen GH, Borges MC, ..., **Karhunen V**, ..., Mägi R (2022). Multi-ancestry genome-wide association study of gestational diabetes mellitus highlights genetic links with type 2 diabetes. *Hum Mol Genet*. [doi:10.1093/hmg/ddac050](https://doi.org/10.1093/hmg/ddac050).
 
