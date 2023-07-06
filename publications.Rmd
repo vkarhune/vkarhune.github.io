@@ -5,12 +5,16 @@ pagetitle: "Publications"
 
 \
 
-Last updated: 12th September 2022.
+Last updated: 6th July 2023.
 
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
 
 ## First-author publications
+
+* **Karhunen V**, Launonen I, Järvelin MR, Sebert S, Sillanpää MJ (2023). Genetic fine-mapping from summary data using a non-local prior improves detection of multiple causal variants. *Bioinformatics*. [doi:10.1093/bioinformatics/btad396](https://doi.org/10.1093/bioinformatics/btad396).
+
+* **Karhunen, V**\*, Gill D\*, Huang J, ..., Tsilidis KK, Järvelin MR, Dehghan A (2023). The interplay between inflammatory cytokines and cardiometabolic disease: bi-directional mendelian randomisation study. *BMJ Medicine*. [doi:10.1136/bmjmed-2022-000157](https://doi.org/10.1136/bmjmed-2022-000157). *Joint-first authorship.
 
 * Soremekun O\*, **Karhunen V**\*, He Y, ..., Gill D, Fatumo S (2022). Lipid traits and type 2 diabetes risk in African ancestry individuals: A Mendelian Randomization study. *EBioMedicine*. [doi:10.1016/j.ebiom.2022.103953](https://doi.org/10.1016/j.ebiom.2022.103953). *Joint-first authorship.
 
@@ -26,14 +30,28 @@ Last updated: 12th September 2022.
 
 * Gill D\*, **Karhunen V**\*, Malik R\*, Dichgans M, Sofat N (2021). Cardiometabolic traits mediating the effect of education on osteoarthritis risk: a Mendelian randomization study. *Osteoarthritis Cartilage*. [doi:10.1016/j.joca.2020.12.015](https://doi.org/10.1016/j.joca.2020.12.015). \*Joint-first authorship.
 
-* **Karhunen V**\*, Gill D\*, Malik R, ..., Tsilidis KK, Järvelin MR, Dehghan A (2020). Genetic study of circulating cytokines offers insight into the determinants, cascades and effects of systemic inflammation. *medRxiv* (pre-print). [doi:10.1101/2020.10.26.20219477](https://doi.org/10.1101/2020.10.26.20219477). \*Joint-first authorship.
-
 * Wiklund P\*, **Karhunen V**\*, Richmond RC, ..., Järvelin MR (2019). DNA methylation links prenatal smoking exposure to later life health outcomes in offspring. *Clin Epigenetics*. [doi:10.1186/s13148-019-0683-4](https://doi.org/10.1186/s13148-019-0683-4). \*Joint-first authorship.
 
 
 ## Other publications
 
+### 2023
+
+* Cronjé HT, **Karhunen V**, Hovingh GK, ..., Gill D (2023). Genetic evidence implicating natriuretic peptide receptor-3 in cardiovascular disease risk: a Mendelian randomization study. *BMC Med*. [doi:10.1186/s12916-023-02867-x](https://doi.org/10.1186/s12916-023-02867-x).
+
+* Wang M, Zhang Z, Georgakis MK, **Karhunen V**, Liu D (2023). The Impact of Genetically Proxied AMPK Activation, the Target of Metformin, on Functional Outcome Following Ischemic Stroke. *J Stroke*. [doi:10.5853/jos.2022.03230](https://doi.org/10.5853/jos.2022.03230).
+
+* Wang M, Zhang Z, Liu D, **Karhunen V**, ..., Liu M (2023). Soluble adhesion molecules and functional outcome after ischemic stroke: A Mendelian randomization study. *J Stroke Cerebrovasc Dis*. [doi:10.1016/j.jstrokecerebrovasdis.2023.107136](https://doi.org/10.1016/j.jstrokecerebrovasdis.2023.107136).
+
+* Cao L, Liu D, **Karhunen V**, ..., Wang M (2023). Circulating macrophage colony-stimulating factor levels and stroke: A Mendelian randomization study. *J Stroke Cerebrovasc Dis*. [doi:10.1016/j.jstrokecerebrovasdis.2023.107050](https://doi.org/10.1016/j.jstrokecerebrovasdis.2023.107050).
+
+* Huang J, Su B, **Karhunen V**, ..., Tzoulaki I, Dehghan A (2023). Inflammatory Diseases, Inflammatory Biomarkers, and Alzheimer Disease: An Observational Analysis and Mendelian Randomization. *Neurology*. [doi:10.1212/wnl.0000000000201489](https://doi.org/10.1212/wnl.0000000000201489).
+
+
+
 ### 2022
+
+* Yuan S, **Karhunen V**, Larsson S, Gill D (2022). Anthropometric Traits and Risk of Mitral Valve Prolapse: A Mendelian Randomization Study. *Circ Genom Precis Med*. [doi:10.1161/circgen.122.003830](https://doi.org/10.1161/circgen.122.003830).
 
 * Ryan DK, **Karhunen V**, ..., Gill D (2022). Genetic evidence for protective effects of angiotensin-converting enzyme against Alzheimer disease but not other neurodegenerative diseases in European populations. *Neurol Genet*. [doi:10.1212/nxg.0000000000200014](https://doi.org/10.1212/nxg.0000000000200014).
 

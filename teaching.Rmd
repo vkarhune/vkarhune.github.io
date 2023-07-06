@@ -14,9 +14,9 @@ pagetitle: "Teaching"
   
 ### Participation in the teaching of short courses in other institutes
 
-* [Genetics in Drug Development, University of Cambridge (May 2022)](https://www.mrc-bsu.cam.ac.uk/training/short-courses/genetics-in-drug-development/)
+* [Genetics in Drug Development, University of Cambridge](https://www.mendelianrandomization.com/index.php/course-genetics-in-drug-development)
 
-* [Mendelian randomisation, Imperial College London (May 2022)](https://www.imperial.ac.uk/school-public-health/study/short-courses/mendelian-randomisation/)
+* [Mendelian randomisation, Imperial College London](https://www.imperial.ac.uk/school-public-health/study/short-courses/mendelian-randomisation/)
 
 <!--
 * [Genetics in Drug Development, University of Cambridge (November 2021)](https://onlinesales.admin.cam.ac.uk/conferences-and-events/mrc-biostatistics-unit/mrc-biostatistics-unit-short-courses/genetics-in-drug-development-november-2021)
