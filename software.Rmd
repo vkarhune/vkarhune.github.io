@@ -9,6 +9,5 @@ pagetitle: "Software"
 
 <img src="figures/finimom.png" style="width:12.5%; margin-left: 20px" align="right">
 
-I am the author and maintainer of `finimom`, an `R` package for fine-mapping genetic summary data
-using a non-local prior.
-Package website: [https://github.com/vkarhune/finimom](https://github.com/vkarhune/finimom).
+I am the author and maintainer of *finimom*, an R package for fine-mapping genetic summary data
+using a non-local prior. Package website: [https://github.com/vkarhune/finimom](https://github.com/vkarhune/finimom).
