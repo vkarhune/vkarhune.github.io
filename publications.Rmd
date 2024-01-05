@@ -5,7 +5,7 @@ pagetitle: "Publications"
 
 \
 
-Last updated: 6th July 2023.
+Last updated: 5th January 2024.
 
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
@@ -36,6 +36,12 @@ Last updated: 6th July 2023.
 ## Other publications
 
 ### 2023
+
+* Choudhary P, Monasso GS, **Karhunen V**, ..., Felix JF, Sebert S (2023). Maternal educational attainment in pregnancy and epigenome-wide DNA methylation changes in the offspring from birth until adolescence. *Mol Psychiatry*. [doi:10.1038/s41380-023-02331-5](https://doi.org/10.1038/s41380-023-02331-5).
+
+* Mustafa R, Ghanbari M, **Karhunen V**, Evangelou M, Dehghan A (2023). Phenome-wide association study on miRNA-related sequence variants: the UK Biobank. *Hum Genomics*. [doi:10.1186/s40246-023-00553-w](https://doi.org/10.1186/s40246-023-00553-w).
+
+* He Y, **Karhunen V**, Pulakka A, Kantomaa M, Sebert S (2023). A bidirectional Mendelian randomisation study to evaluate the relationship between body constitution and hearing loss. *Sci Rep*. [doi:10.1038/s41598-023-44735-x](https://doi.org/10.1038/s41598-023-44735-x).
 
 * Cronjé HT, **Karhunen V**, Hovingh GK, ..., Gill D (2023). Genetic evidence implicating natriuretic peptide receptor-3 in cardiovascular disease risk: a Mendelian randomization study. *BMC Med*. [doi:10.1186/s12916-023-02867-x](https://doi.org/10.1186/s12916-023-02867-x).
 

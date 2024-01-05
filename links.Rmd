@@ -7,6 +7,9 @@ pagetitle: "Links"
 
 Some useful or interesting links.
 
+## Burgess Research Group web page
+
+[https://www.mendelianrandomization.com](https://www.mendelianrandomization.com)
 
 ## Free statistics books
 
