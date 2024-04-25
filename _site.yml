@@ -26,7 +26,7 @@ navbar:
     - icon: fab fa-twitter-square fa-lg
       href: https://twitter.com/karhunen_v
     - icon: fa-envelope fa-lg
-      href: mailto:ville(d0t)karhunen(at)oulu(d0t)fi
+      href: mailto:ville(d0t)karhunen(at)mrc-bsu(d0t)cam(d0t)ac(d0t)uk
 output:
   html_document:
     theme: darkly

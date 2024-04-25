@@ -11,3 +11,9 @@ pagetitle: "Software"
 
 I am the author and maintainer of *finimom*, an R package for fine-mapping genetic summary data
 using a non-local prior. Package website: [https://github.com/vkarhune/finimom](https://github.com/vkarhune/finimom).
+
+\
+
+### Other
+
+I am a contributor to *MendelianRandomization* R package. Package website: [https://cran.r-project.org/package=MendelianRandomization](https://cran.r-project.org/package=MendelianRandomization).

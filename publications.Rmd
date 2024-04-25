@@ -5,7 +5,7 @@ pagetitle: "Publications"
 
 \
 
-Last updated: 5th January 2024.
+Last updated: 25th April 2024.
 
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
@@ -34,6 +34,14 @@ Last updated: 5th January 2024.
 
 
 ## Other publications
+
+### 2024
+
+* Choudhary P, Ronkainen J, Carson J, **Karhunen V**, ..., Huang RC, Sebert S (2024). Developmental origins of psycho-cardiometabolic multimorbidity in adolescence and their underlying pathways through methylation markers: a two-cohort study. *Eur Child Adolesc Psychiatry*. [doi:10.1007/s00787-024-02390-1](https://doi.org/10.1007/s00787-024-02390-1).
+
+* Yarmolinsky J, Robinson JW, Mariosa D, **Karhunen V**, ..., Martin RM (2024). Association between circulating inflammatory markers and adult cancer risk: a Mendelian randomization analysis. *EBioMedicine*. [doi:10.1016/j.ebiom.2024.104991](https://doi.org/10.1016/j.ebiom.2024.104991).
+
+* de La Harpe R, Zagkos L, Gill D, Cronjé HT, **Karhunen V** (2024). Cerebrospinal and Brain Proteins Implicated in Neuropsychiatric and Risk Factor Traits: Evidence from Mendelian Randomization. *Biomedicines*. [doi:10.3390/biomedicines12020327](https://doi.org/10.3390/biomedicines12020327).
 
 ### 2023
 

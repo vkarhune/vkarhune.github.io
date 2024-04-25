@@ -8,8 +8,9 @@ pagetitle: "Teaching"
  
 ## University of Cambridge
 
-* I am one of the course tutors in the [Genetics in Drug Development short course](https://www.mendelianrandomization.com/index.php/course-genetics-in-drug-development)
+*[Mendelian randomization course](https://mendelianrandomization.com/index.php/online-course) -- course tutor
 
+*[Genetics in Drug Development short course](https://www.mendelianrandomization.com/index.php/course-genetics-in-drug-development) -- course tutor
 
 \
   
