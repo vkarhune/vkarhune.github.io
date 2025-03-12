@@ -23,8 +23,9 @@ navbar:
     - icon: ai ai-orcid ai-lg
       href: https://orcid.org/0000-0001-6064-1588
     #- icon: fa-twitter-square fa-lg
-    - icon: fab fa-twitter-square fa-lg
-      href: https://twitter.com/karhunen_v
+    - icon: fab fa-bluesky fa-lg
+      #href: https://twitter.com/karhunen_v
+      href: https://bsky.app/profile/vkarhune.bsky.social
     - icon: fa-envelope fa-lg
       href: mailto:ville(d0t)karhunen(at)mrc-bsu(d0t)cam(d0t)ac(d0t)uk
 output:

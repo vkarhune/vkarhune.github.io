@@ -5,7 +5,7 @@ pagetitle: "Publications"
 
 \
 
-Last updated: 25th April 2024.
+Last updated: 12th March 2025.
 
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
@@ -32,10 +32,27 @@ Last updated: 25th April 2024.
 
 * Wiklund P\*, **Karhunen V**\*, Richmond RC, ..., Järvelin MR (2019). DNA methylation links prenatal smoking exposure to later life health outcomes in offspring. *Clin Epigenetics*. [doi:10.1186/s13148-019-0683-4](https://doi.org/10.1186/s13148-019-0683-4). \*Joint-first authorship.
 
+## Last/corresponding author publications
+
+* Heikkilä TE, Kaiser EK, Lin J, ..., **Karhunen V** (2024). Genetic evidence for efficacy of targeting IL-2, IL-6 and TYK2 signalling in the prevention of type 1 diabetes: a Mendelian randomisation study. *Diabetologia*. [doi:10.1007/s00125-024-06267-5](https://doi.org/10.1007/s00125-024-06267-5).
+
+* Fatumo S, **Karhunen V**&dagger;, Chikowore T, ..., Gill D&dagger; (2021). Metabolic Traits and Stroke Risk in Individuals of African Ancestry: Mendelian Randomization Analysis. *Stroke*. [doi:10.1161/STROKEAHA.121.034747](https://doi.org/10.1161/STROKEAHA.121.034747). &dagger;Corresponding authors.
+
 
 ## Other publications
 
+### 2025
+
+* Baltramonaityte V, **Karhunen V**, Felix JF, ..., Walton E (2025). Biological pathways underlying the relationship between childhood maltreatment and Multimorbidity: A two-step, multivariable Mendelian randomisation study. *Brain Behav Immun*. [doi:10.1016/j.bbi.2025.01.024](https://doi.org/10.1016/j.bbi.2025.01.024).
+
+* Hyytiäinen V, Ala-Mursula L, Oura P, Paananen M, **Karhunen V**, ..., Rissanen I (2025). Clusters of parental socioeconomic status in early childhood and inherited risk for cerebrovascular disease until mid-life-Northern Finland Birth Cohort 1966. *Int J Stroke*. [doi:10.1177/17474930241282521](https://doi.org/10.1177/17474930241282521).
+
 ### 2024
+
+* Gill D, Dib MJ, Cronjé HT, **Karhunen V**, ..., Burgess S (2024). 
+Common pitfalls in drug target Mendelian randomization and how to avoid them. *BMC Med*. [doi:10.1186/s12916-024-03700-9](https://doi.org/10.1186/s12916-024-03700-9).
+
+* Rontogianni MO, Gill D, Bouras E, ..., **Karhunen V**, ..., Tsilidis KK (2024). Association of inflammatory cytokines with lung function, chronic lung diseases, and COVID-19. *iScience*. [doi:10.1016/j.isci.2024.110704](https://doi.org/10.1016/j.isci.2024.110704).
 
 * Choudhary P, Ronkainen J, Carson J, **Karhunen V**, ..., Huang RC, Sebert S (2024). Developmental origins of psycho-cardiometabolic multimorbidity in adolescence and their underlying pathways through methylation markers: a two-cohort study. *Eur Child Adolesc Psychiatry*. [doi:10.1007/s00787-024-02390-1](https://doi.org/10.1007/s00787-024-02390-1).
 
@@ -94,8 +111,6 @@ Last updated: 25th April 2024.
 * Ip HF, van der Laan CM, Krapohl EML, ..., **Karhunen V**, ..., Bartels M, Nivard MG, Boomsma DI (2021). Genetic association study of childhood aggression across raters, instruments, and age. *Transl Psychiatry*. [doi:10.1038/s41398-021-01480-x](https://doi.org/10.1038/s41398-021-01480-x).
 
 * Daghlas I, **Karhunen V**, Ray D, ..., Gill D (2021). Genetic Evidence for Repurposing of GLP1R (Glucagon-Like Peptide-1 Receptor) Agonists to Prevent Heart Failure. *J Am Heart Assoc*. [doi:10.1161/JAHA.120.020331](https://doi.org/10.1161/JAHA.120.020331).
-
-* Fatumo S, **Karhunen V**&dagger;, Chikowore T, ..., Gill D&dagger; (2021). Metabolic Traits and Stroke Risk in Individuals of African Ancestry: Mendelian Randomization Analysis. *Stroke*. [doi:10.1161/STROKEAHA.121.034747](https://doi.org/10.1161/STROKEAHA.121.034747). &dagger;Corresponding authors.
 
 * Gill D, Zuber V, Dawson J, ..., **Karhunen V**, ..., Elliott P (2021). Risk factors mediating the effect of body mass index and waist-to-hip ratio on cardiovascular outcomes: Mendelian randomization analysis. *Int J Obes (Lond)*. [doi:10.1038/s41366-021-00807-4](https://doi.org/10.1038/s41366-021-00807-4).
 

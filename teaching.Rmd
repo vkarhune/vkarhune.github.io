@@ -8,17 +8,17 @@ pagetitle: "Teaching"
  
 ## University of Cambridge
 
-*[Mendelian randomization course](https://mendelianrandomization.com/index.php/online-course) -- course tutor
+* [Mendelian randomization course](https://mendelianrandomization.com/index.php/online-course) -- course tutor
 
-*[Genetics in Drug Development short course](https://www.mendelianrandomization.com/index.php/course-genetics-in-drug-development) -- course tutor
+* [Genetics in Drug Development short course](https://www.mendelianrandomization.com/index.php/course-genetics-in-drug-development) -- course tutor
 
 \
   
 ### Other teaching experience
 
-* 2021--2023, University of Oulu: Corresponding teacher on **Statistical Methods in Epidemiology II** module in [Epidemiology and Biomedical Data Science](https://www.oulu.fi/en/apply/masters-epidemiology-and-biomedical-data-science) Master's programme
+* 2021--2024, Imperial College London: Guest lecturer on the [Mendelian randomisation short course](https://www.imperial.ac.uk/school-public-health/study/short-courses/mendelian-randomisation/)
 
-* 2021--2023, Imperial College London: Guest lecturer on the [Mendelian randomisation short course](https://www.imperial.ac.uk/school-public-health/study/short-courses/mendelian-randomisation/)
+* 2021--2023, University of Oulu: Corresponding teacher on **Statistical Methods in Epidemiology II** module in [Epidemiology and Biomedical Data Science](https://www.oulu.fi/en/apply/masters-epidemiology-and-biomedical-data-science) Master's programme
 
 
 <!--
