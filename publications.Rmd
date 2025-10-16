@@ -5,7 +5,7 @@ pagetitle: "Publications"
 
 \
 
-Last updated: 12th March 2025.
+Last updated: 16th October 2025.
 
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
@@ -42,6 +42,16 @@ Last updated: 12th March 2025.
 ## Other publications
 
 ### 2025
+
+* Kiviniemi E, **Karhunen V**, Perola M, Kettunen J, Sillanpää MJ (2025). Developing risk prediction models for type 2 diabetes and assessing the role of circulating metabolic biomarkers in five independent Finnish cohorts with over 22,000 individuals. *J Clin Epidemiol*. [doi:10.1016/j.jclinepi.2025.111978](https://doi.org/10.1016/j.jclinepi.2025.111978).
+
+* van der Laan CM, Ip HF, Schipper M, ..., **Karhunen V**, ..., Boomsma DI (2025). Genome-wide association meta-analysis of childhood ADHD symptoms and diagnosis identifies new loci and potential effector genes. *Nat Genet*. [doi:10.1038/s41588-025-02295-y](https://doi.org/10.1038/s41588-025-02295-y).
+
+* Tzala E, Banterle M, **Karhunen V**, ..., Lewin A, Jarvelin MR (2025). A Bayesian life-course linear structural equations model (BLSEM) to explore the development of body mass index (BMI) from the prenatal stage until middle age. *Int J Obes (Lond)*. [doi:10.1038/s41366-025-01857-8](https://doi.org/10.1038/s41366-025-01857-8).
+
+* de La Harpe R, Rogne T, Nyberg M, ..., **Karhunen V**, Gill D (2025). Associations of Genetically Predicted NPR3 and NPR2 Perturbation and Preeclampsia Risk: A Two-Sample Mendelian Randomization Analysis. *Int J Hypertens*. [doi:10.1155/ijhy/9972031](https://doi.org/10.1155/ijhy/9972031).
+
+* Daghlas I, **Karhunen V**, Kim AS, Gill D (2025). Application of Human Genetics to Prioritize Coagulation Cascade Protein Targets for Ischemic Stroke Prevention. *Stroke*. [10.1161/strokeaha.124.049808](https://doi.org/10.1161/strokeaha.124.049808).
 
 * Baltramonaityte V, **Karhunen V**, Felix JF, ..., Walton E (2025). Biological pathways underlying the relationship between childhood maltreatment and Multimorbidity: A two-step, multivariable Mendelian randomisation study. *Brain Behav Immun*. [doi:10.1016/j.bbi.2025.01.024](https://doi.org/10.1016/j.bbi.2025.01.024).
 
