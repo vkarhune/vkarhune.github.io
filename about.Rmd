@@ -8,13 +8,14 @@ pagetitle: "About"
 ## Biography
 
 I have a PhD in statistical and molecular epidemiology, received in 2021 at Imperial College London.
-My background is in statistics, and I have experience in epidemiological research, especially on (but not limited to) neuropsychiatric disorders and cardiometabolic traits.
+My background is in statistics, and I have experience in epidemiological research, especially on (but not limited to) psychiatric disorders and cardiometabolic traits.
 My main research interests are causal inference and high-dimensional data analysis, and their applications in molecular epidemiology.
 
 
 ## Positions
 
-* 2024-- Senior Research Associate, MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+* Oct 2025-- Assistant Research Professor, MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
+* 2024--2025 Senior Research Associate, MRC Biostatistics Unit, University of Cambridge, Cambridge, UK
 * 2021--2023 Postdoctoral researcher, University of Oulu, Oulu, Finland
 * 2020 Early Stage Researcher, Imperial College London, London, UK
 * 2017--2020 Marie Sklodowska-Curie Early Stage Researcher (PhD Student), Imperial College London, London, UK

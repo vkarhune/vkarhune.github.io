@@ -5,12 +5,14 @@ pagetitle: "Publications"
 
 \
 
-Last updated: 16th October 2025.
+Last updated: 10th April 2026.
 
 [Link to my ORCiD profile](https://orcid.org/0000-0001-6064-1588).
 
 
 ## First-author publications
+
+* **Karhunen V**, Woolf B, Bhatnagar P, Gill D, Burgess S (2026). Integrating genetic data with biological insight: A practical guide to *cis*-Mendelian randomization. *Am J Hum Genet*. [doi:10.1016/j.ajhg.2026.03.011](https://doi.org/10.1016/j.ajhg.2026.03.011).
 
 * **Karhunen V**, Launonen I, Järvelin MR, Sebert S, Sillanpää MJ (2023). Genetic fine-mapping from summary data using a non-local prior improves detection of multiple causal variants. *Bioinformatics*. [doi:10.1093/bioinformatics/btad396](https://doi.org/10.1093/bioinformatics/btad396).
 
@@ -40,6 +42,12 @@ Last updated: 16th October 2025.
 
 
 ## Other publications
+
+### 2026
+
+* Zhou A, **Karhunen V**, Tian H, ..., Burgess S (2026). Variant selection to maximize variance explained in cis-Mendelian randomization. *HGG Adv*. [doi:10.1016/j.xhgg.2026.100573](https://doi.org/10.1016/j.xhgg.2026.100573).
+
+* Hwang S, **Karhunen V**, Patel A, ..., Burgess S (2026). Human genetics suggests differing causal pathways from HMGCR inhibition to coronary artery disease and type 2 diabetes. *Int J Epidemiol*. [doi:10.1093/ije/dyaf223](https://doi.org/10.1093/ije/dyaf223).
 
 ### 2025
 
